@@ -12,17 +12,14 @@
   "editor.minimap.enabled": false,
   "editor.semanticHighlighting.enabled": true,
   "workbench.iconTheme": "vscode-icons",
-  "workbench.colorTheme": "Moonlight Italic",
   "window.menuBarVisibility": "compact",
-
-  // custom
   "editor.bracketPairColorization.enabled": true,
   "workbench.colorCustomizations": {
     "editorBracketHighlight.foreground1": "#e785c5",
     "editorBracketHighlight.foreground2": "#8eeb7b",
     "editorBracketHighlight.foreground3": "#dfad79"
   },
-  "terminal.integrated.fontFamily": "CaskaydiaMono Nerd Font",
+  "terminal.integrated.fontFamily": "JetbrainsMono Nerd Font",
   "editor.fontFamily": "JetbrainsMono Nerd Font",
   "editor.fontLigatures": true,
   "security.workspace.trust.untrustedFiles": "open",
@@ -31,14 +28,15 @@
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.scrollbar.horizontalScrollbarSize": 9,
   "editor.scrollbar.verticalScrollbarSize": 9,
-  "editor.codeLensFontFamily": "CaskaydiaMono Nerd Font",
-  "editor.experimentalInlineEdit.fontFamily": "CaskaydiaMono Nerd Font",
-  "editor.inlayHints.fontFamily": "CaskaydiaMono Nerd Font",
-  "editor.inlineSuggest.fontFamily": "CaskaydiaMono Nerd Font",
-  "debug.console.fontFamily": "CaskaydiaMono Nerd Font",
-  "scm.inputFontFamily": "CaskaydiaMono Nerd Font",
-  "notebook.output.fontFamily": "CaskaydiaMono Nerd Font",
-  "chat.editor.fontFamily": "CaskaydiaMono Nerd Font",
+  "editor.codeLensFontFamily": "JetbrainsMono Nerd Font",
+  "editor.experimentalInlineEdit.fontFamily": "JetbrainsMono Nerd Font",
+  "editor.inlayHints.fontFamily": "JetbrainsMono Nerd Font",
+  "editor.inlineSuggest.fontFamily": "JetbrainsMono Nerd Font",
+  "debug.console.fontFamily": "JetbrainsMono Nerd Font",
+  "scm.inputFontFamily": "JetbrainsMono Nerd Font",
+  "notebook.output.fontFamily": "JetbrainsMono Nerd Font",
+  "chat.editor.fontFamily": "JetbrainsMono Nerd Font",
   "editor.lineHeight": 2,
-  "eslint.format.enable": true
+  "eslint.format.enable": true,
+  "workbench.colorTheme": "Moonlight Italic"
 }
