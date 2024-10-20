@@ -1,7 +1,7 @@
 {
   "window.commandCenter": false,
   "workbench.editor.showTabs": "none",
-  "workbench.activityBar.location": "top",
+  "workbench.activityBar.location": "hidden",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "editor.tabSize": 2,
@@ -11,14 +11,6 @@
   "editor.semanticHighlighting.enabled": true,
   "workbench.iconTheme": "vscode-icons",
   "window.menuBarVisibility": "toggle",
-
-  // custom
-  "editor.bracketPairColorization.enabled": true,
-  "workbench.colorCustomizations": {
-    "editorBracketHighlight.foreground1": "#e785c5",
-    "editorBracketHighlight.foreground2": "#8eeb7b",
-    "editorBracketHighlight.foreground3": "#dfad79"
-  },
   "terminal.integrated.fontFamily": "JetbrainsMono Nerd Font",
   "editor.fontFamily": "JetbrainsMono Nerd Font",
   "editor.fontLigatures": true,
@@ -38,7 +30,6 @@
   "chat.editor.fontFamily": "JetbrainsMono Nerd Font",
   "editor.lineHeight": 1.5,
   "eslint.format.enable": true,
-  "workbench.colorTheme": "Moonlight Italic",
   "terminal.integrated.tabs.enabled": false,
   "workbench.editor.editorActionsLocation": "hidden",
   "workbench.layoutControl.enabled": false,
