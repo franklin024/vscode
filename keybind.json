@@ -1,3 +1,4 @@
+// Place your key bindings in this file to override the defaults
 [
   {
     "key": "ctrl+alt+j",
@@ -32,5 +33,9 @@
     "key": "shift+delete",
     "command": "-deleteFile",
     "when": "filesExplorerFocus && foldersViewVisible && !explorerResourceReadonly && !inputFocus"
+  },
+  {
+    "key": "alt+g",
+    "command": "git.viewChanges"
   }
 ]
