@@ -1,7 +1,6 @@
 {
   "window.commandCenter": false,
-  "workbench.editor.showTabs": "none",
-  "workbench.activityBar.location": "hidden",
+  "workbench.activityBar.location": "top",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "editor.tabSize": 2,
@@ -34,12 +33,7 @@
   "editor.suggest.matchOnWordStartOnly": false,
   "editor.fontWeight": "normal",
   "workbench.startupEditor": "none",
-  "editor.fontSize": 13
+  "editor.fontSize": 13,
+  "editor.semanticHighlighting.enabled": true,
+  "workbench.editor.showTabs": "none"
 }
-
-//this is a comment...
-//this is another comment
-//haong1
-
-
-
